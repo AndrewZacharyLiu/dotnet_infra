@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AspNetCoreDemo
+build_property.ProjectDir = /Users/paxysnowman/dotnet_infra/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
